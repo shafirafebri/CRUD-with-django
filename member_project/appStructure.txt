@@ -1,0 +1,21 @@
+● member_project 
+|
++---● member_register (app folder)
+|   |
+|   +--● migrations (includes files related to migrations)
+|   |  
+|   +--● templates
+|   |  |--● member_register
+|   |  |  |--base.html
+|   |  |  |--member_form.html
+|   |  |  |--member_list.html
+|   | 
+|   |-- models.py
+|   |-- forms.py
+|   |-- urls.py
+|   |-- views.py
+|
++---● member_project (project folder)
+|   |
+|   |--settings.py 
+|   |--urls.py
